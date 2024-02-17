@@ -4,7 +4,7 @@ This project implements a machine learning model using image texture features to
 
 ## Project Highlights:
 
-- **Accuracy:** Achieves over 90% accuracy on the test set.
+- **Accuracy:** Achieves over 99% accuracy on the test set.
 - **Model:** Kernel Extreme Learning Machine (KELM) with RBF kernel.
 - **Features:** Gray level co-occurrence matrix (GLCM) features and color histograms.
 
