@@ -8,6 +8,11 @@ This project implements a machine learning model using image texture features to
 - **Model:** Kernel Extreme Learning Machine (KELM) with RBF kernel.
 - **Features:** Gray level co-occurrence matrix (GLCM) features and color histograms.
 
+## Screeshots
+
+![image](https://github.com/sinha-toyeesh/ToMV-KELM-Classifier/assets/64722289/bed66f1c-4345-42ec-b362-68b9b358d9e5)
+
+
 ## Requirements:
 
 - Python 3.6+
